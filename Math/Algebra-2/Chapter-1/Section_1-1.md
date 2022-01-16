@@ -2,7 +2,7 @@
 title: Section 1.1
 description: 
 published: true
-date: 2022-01-16T21:50:50.851Z
+date: 2022-01-16T21:51:48.528Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-16T17:49:38.344Z
