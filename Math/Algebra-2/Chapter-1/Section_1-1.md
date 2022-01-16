@@ -2,7 +2,7 @@
 title: Section 1.1
 description: 
 published: true
-date: 2022-01-16T19:12:50.402Z
+date: 2022-01-16T19:45:25.704Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-16T17:49:38.344Z
@@ -16,7 +16,5 @@ dateCreated: 2022-01-16T17:49:38.344Z
 ## Solving Multi-step Equations
 > Solve 3x+7 = 22 for x  
 
-* *Subtract 7 from both sides of the equation* 3x=15
-3x=15
-![alg21.1graph1.png](/alg21.1graph1.png)
-* *Divide the result by 3 to isolate the variable*
+* First, we subtract 7 from both sides of the equation
+ This leaves us with 
