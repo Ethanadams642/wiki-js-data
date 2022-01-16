@@ -2,7 +2,7 @@
 title: Section 1.1
 description: 
 published: true
-date: 2022-01-16T19:45:25.704Z
+date: 2022-01-16T19:55:47.877Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-16T17:49:38.344Z
@@ -11,10 +11,14 @@ dateCreated: 2022-01-16T17:49:38.344Z
 # Section 1.1 - Solving linear equations and inequalities 
 
 > Section 1.1 is an example of a fully filled out section, not all sections may look like it, as for now I am only doing sections that I feel like I have a hard time with. 
-{.is-warning}
+{.is-info}
 
 ## Solving Multi-step Equations
 > Solve 3x+7 = 22 for x  
 
-* First, we subtract 7 from both sides of the equation
- This leaves us with 
+* First, we subtract 7 from both sides of the equation, this leaves us with 3x=15
+```diagram
+PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIxMjFweCIgaGVpZ2h0PSI2MXB4IiB2aWV3Qm94PSItMC41IC0wLjUgMTIxIDYxIiBjb250ZW50PSImbHQ7bXhmaWxlIGhvc3Q9JnF1b3Q7ZW1iZWQuZGlhZ3JhbXMubmV0JnF1b3Q7IG1vZGlmaWVkPSZxdW90OzIwMjItMDEtMTZUMTk6NTU6MzkuOTA1WiZxdW90OyBhZ2VudD0mcXVvdDs1LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk3LjAuNDY5Mi43MSBTYWZhcmkvNTM3LjM2IEVkZy85Ny4wLjEwNzIuNjImcXVvdDsgdmVyc2lvbj0mcXVvdDsxNi4yLjcmcXVvdDsgZXRhZz0mcXVvdDtudGFFZjFIcmplUWNXbUJ6elhtSCZxdW90OyB0eXBlPSZxdW90O2VtYmVkJnF1b3Q7Jmd0OyZsdDtkaWFncmFtIGlkPSZxdW90OzJhSEFQa1NYZTd5N2JfQ0lYcElxJnF1b3Q7IG5hbWU9JnF1b3Q7UGFnZS0xJnF1b3Q7Jmd0O2paSk5iOE1nRElaL0RYY0lhcGZ6c202NzdKUkR6eWg0QVluRUVTVkwwbDgvc3BoOHFLcTBFK2F4RGZack0xazA0NGRYbmZsQ0RZNWxYSTlNdnJFc3kvZzVpOGRNcG9VSWtlY0xxYjNWeERaUTJqc1E1RVI3cStGMkNBeUlMdGp1Q0N0c1c2akNnU252Y1RpR2ZhTTcvdHFwR2g1QVdTbjNTSzlXQjdQUS9NUTMvZ20yTnVsbndjblRxQlJNNEdhVXhtR0g1SVhKd2lPR3hXckdBdHlzWHRKbHlYdC80bDBMODlDRy95VFFKSDZVNjZrM3FpdE1xVm1QZmF0aGp1ZE12ZzdHQmlnN1ZjM2VJYzQzTWhNYUYyOGltdlFjK0FEajA1TEUybWhjRWNBR2dwOWlDQ1hJTTJsRDIzRjZvZnV3U1MyU2ZtWW5jOHBUTk4xNmZYb1RJQnFrUWJwdVd2LzVkaXNyTDc4PSZsdDsvZGlhZ3JhbSZndDsmbHQ7L214ZmlsZSZndDsiPjxkZWZzLz48Zz48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjYwIiBmaWxsPSJyZ2IoMjU1LCAyNTUsIDI1NSkiIHN0cm9rZT0icmdiKDAsIDAsIDApIiBwb2ludGVyLWV2ZW50cz0iYWxsIi8+PC9nPjwvc3ZnPg==
+```
+
+Next, divide both sides by 3 to isolate the vaiable
