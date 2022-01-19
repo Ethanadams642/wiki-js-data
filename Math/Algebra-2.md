@@ -2,7 +2,7 @@
 title: Algebra 2
 description: 
 published: true
-date: 2022-01-19T18:12:31.050Z
+date: 2022-01-19T18:12:45.380Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-16T17:55:24.049Z
@@ -19,4 +19,3 @@ dateCreated: 2022-01-16T17:55:24.049Z
 [Chapter 5](/Math/Algebra-2/Chapter-5) N/A
 [Chapter 6](/Math/Algebra-2/Chapter-6) N/A
 
-test
